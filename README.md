@@ -1,9 +1,11 @@
 <h1 align="center">Marcos Andrés Travaglini</h1>
-<div align="center">
-  <h2>
-    Frontend Developer
-  </h2>
-</div>
+![Satya Wikananda's card name](https://cardivo.vercel.app/api?name=[Satya Wikananda]&description=[I am a coder]?backgroundColor=[%23ffffff]?site=[https://satyawikananda.tech]?pattern=[plus]?colorPattern=[%231abc9c]
+### About Me
+¡Hola! 👋 soy Frontend Developer. Vivo en la ciudad de Neuquén, Argentina. Siempre estoy buscando nuevos desafíos y oportunidades para aplicar mis habilidades y conocimientos.
+
+Puedes explorar algunos de mis proyectos personales y académicos en mi (Portafolio)[https://marcostravaglini-portfolio.vercel.app/].
+
+### Skills
 <div align="center">
   <h3>
     HTML5 | CSS3 | JavaScript | React | TailwindCSS | Styled Components | Bootstrap
