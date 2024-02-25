@@ -2,9 +2,9 @@
 
 ¡Hola Mundo! 👋 soy Frontend Developer. Vivo en la ciudad de Neuquén, Argentina. Siempre estoy buscando nuevos desafíos y oportunidades para aplicar mis habilidades y conocimientos.
 
-## [Portfolio](https://marcostravaglini-portfolio.vercel.app/) 👈
+### [Portfolio](https://marcostravaglini-portfolio.vercel.app/) 👈
 
-## Skills
+___
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,sass,styledcomponents,bootstrap,tailwind,ts,figma,ps,vite,git,github&perline=8)](https://skillicons.dev)
 
 ___
