@@ -1,8 +1,11 @@
 ¡Hola Mundo! 👋
 
 🌱 Disfruto programando y compartiendo conocimientos
+
 ❤️ Me encanta escribir código y aprender nuevas tecnologías
+
 🏠 Vivo en la ciudad de Neuquén, Argentina
+
 💼 Puedes darle un vistazo a mi [Portfolio](https://marcostravaglini-portfolio.vercel.app/)
 
 ___
